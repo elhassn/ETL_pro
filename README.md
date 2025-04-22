@@ -1,2 +1,23 @@
-# Generative AI
+# Generative AI (Inswers - Find the attachment)
 Generative AI for Business Applications
+
+-Skills & Tools Covered: OpenAI Chat playground
+
+
+
+Today, more than ever, it is important for organizations to pay attention to what their customers are saying about their products and services - taking timely and effective action on feedback paves the way for delivering better experiences to customers which will in turn lead to growth, longer customer engagement and lifetime value. You as a product manager need to be on top of your customers’ voice. Now, you may have a lot of customers giving you reviews, but as a product manager / a product analyst, you need to have a priority order to work through to be productive about your efforts in managing customer experience and expectations. One of the ways to immediately understand where to focus your efforts is to know the overall sentiment that your customers are projecting at multiple points in time, ie - to perform something called a Sentiment Analysis
+
+Sentiment Analysis is the process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral.
+
+Objective
+
+You are part of a multinational computer, phone, laptop and hardware manufacturer. Your objective as a product analyst is to use Generative AI, and craft an effective prompt which can take an unstructured customer review as input and return a structured response, which can be then used to take action in a manner which optimizes for the overall customer experience of your product. As you structure your data from the review, make sure to capture the date of the review, product / service in question, the rating, a short summary (upto 100 words) of the feedback for the product / service, list of actions items which can improve the product / service, any mention of competitors - if yes, what was better in their experience, the overall sentiment (positive, negative, or neutral)
+
+To test your prompt, you can use the below sample reviews:
+
+Review-1
+
+[2023-08-24] - rating 2/5 - I bought the ZephyrBook Pro 2023 with high hopes, but it has been nothing but a disappointment. From the moment I powered it on, it felt like a terrible investment. The heating issue is absurd; this laptop heats up faster than a toaster. It's like having a portable oven on my lap. I can't even use it for more than 30 minutes without feeling like my thighs are on fire. The customer support experience has been equally horrendous. When I reached out to them about the heating problem, they brushed me off, saying it's normal for a laptop to get warm. Warm? No, this is scalding hot! It's like they expect me to carry a fire extinguisher with me while using it. Now, let me tell you about the competition. My friend owns the sleek and efficient StarLite 2023 laptop, and it's miles ahead. Not only does it stay cool as a cucumber, but it also runs like a dream. The ZephyrBook Pro 2023 can't hold a candle to it. My advice to the company is simple: Invest in better hardware to manage the heating issue, and please, for the love of technology, improve your customer support. I regret not going for the StarLite 2023, and I wish I had made a wiser choice. Don't make the same mistake I did.
+
+Review-2
+rating 3/5 I can't express how delighted I am with my LuminaFlex X1 laptop. I purchased this in March 2020 and it's been 3 years. From the moment I opened the sleek packaging, I knew I had made a wise choice. This laptop has exceeded all my expectations, and I am thrilled to write this glowing review. The performance of the LuminaFlex X1 is top-notch. It handles all my tasks effortlessly, whether it's multitasking for work or enjoying some gaming during my downtime. The battery life is impressive, allowing me to work or play without constantly worrying about charging. But what truly sets LuminaFlex apart is their customer-oriented approach. The company understands the value of long-term customers. Not only do they offer a fantastic product, but they also provide extended warranty options and exclusive benefits for loyal customers. It's like they genuinely appreciate our trust in their brand. My advice to the company, if I may offer one, is to continue this customer-centric approach. Perhaps even consider extending the warranty period for all customers, as it provides peace of mind and further solidifies their commitment to excellence. In conclusion, if you're in the market for a laptop, look no further than the LuminaFlex X1. It's not just a laptop; it's an experience. Kudos to the LuminaFlex team for creating such a remarkable product and for valuing their customers like no other.
